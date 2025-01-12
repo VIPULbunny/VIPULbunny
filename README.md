@@ -92,7 +92,7 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vipulbunny&" alt="vipulbunny" />
+  <img align="center" src="https://wallpapers.com/images/featured/deadpool-tzhfez1w8ud2z8aw.jpg" alt="vipulbunny" />
 </p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VIPULbunny/VIPULbunny/output/github-snake-dark.svg" />
