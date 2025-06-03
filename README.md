@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Science Enthusiast from India</h3>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWl1aHJpMDhscTR0Z243bHd2bzl1cTRhZ2NhZzAzZ2thbThlNnFtOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp" alt="coding-gif" width="200"/>
+  <img src="https://media1.tenor.com/m/pOv7SnZx7xAAAAAd/upload-cat.gif" alt="coding-gif" width="200"/>
 </p>
 
 <p align="center">
