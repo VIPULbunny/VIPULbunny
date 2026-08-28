@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vipul Solanki</h1>
-<h3 align="center">A passionate Data Science Enthusiast from India</h3>
+<h3 align="center">Computer Engineering Graduate | Data Science | Machine Learning </h3>
 
 <p align="center">
   <img src="https://i.gifer.com/origin/a5/a5fa6933aa695d34ef2aaa33d3c5a9f3_w200.gif" alt="coding-gif" width="200"/>
@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=vipulbunny&label=Profile%20views&color=0e75b6&style=flat" alt="vipulbunny" />
 </p>
 
-- 🔭 I’m currently studying at [Mumbai University](https://www.mctrgit.ac.in/)
+- 🔭 Graduated from [Mumbai University](https://www.mctrgit.ac.in/)
 
 - 🌱 I’m currently learning **AI and Data Science**
 
@@ -17,15 +17,9 @@
 
 - 🤝 I’m looking for help with becoming a **Data Scientist**
 
-- 👨‍💻 Check out my portfolio: [https://vipulbunny.github.io/Vipul-Solanki/](https://vipulbunny.github.io/Vipul-Solanki/)
-
-- 📝 I regularly write articles here: [https://vipulbunny.github.io/Vipul-Solanki/](https://vipulbunny.github.io/Vipul-Solanki/)
-
-- 💬 Ask me about **pandas, numpy, and C++**
+- 👨‍💻 Check out my portfolio: [Vipul Solanki](https://vipulbunny.github.io/vipulsolanki.github.io/)
 
 - 📫 Reach me at: **vipulsolnki83@gmail.com**
-
-- ⚡ Fun fact: **I enjoy Trekking, Jogging, and Marvel movies (MCU)**
 
 ---
 
@@ -85,14 +79,6 @@
 </p>
 
 ---
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vipulbunny&show_icons=true&locale=en&layout=compact" alt="vipulbunny" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vipulbunny&show_icons=true&locale=en" alt="vipulbunny" />
-</p>
 
 <p>
   <img align="center" src="https://github.com/user-attachments/assets/d820d50c-6de4-440f-865f-d982fc6400cf" alt="Banner" />
